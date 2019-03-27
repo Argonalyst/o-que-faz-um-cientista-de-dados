@@ -31,13 +31,31 @@ Analise mais de 50 vagas de emprego para Cientistas de Dados no Brasil e reuni t
 - [Oracle](https://www.oracle.com/br/index.html)
 
 # Big data:
-Hadoop, Spark, MapReduce, Coherence, Hazelcast, Hive
+- [Hadoop](http://hadoop.apache.org/)
+- [Spark](https://spark.apache.org/)
+- [MapReduce](https://pt.wikipedia.org/wiki/MapReduce)
+- [Coherence](https://www.oracle.com/technetwork/middleware/coherence/overview/index.html)
+- [Hazelcast](https://hazelcast.com/)
+- [Hive](https://hive.apache.org/)
 
 # Streaming:
-Storm, Spark, Samza
+- [Storm](http://storm.apache.org/)
+- [Spark Streaming](https://spark.apache.org/streaming/)
+- [Samza](http://samza.apache.org/)
 
 # Ambientes de modelagem:
-R, Mahout, Spark ML, Theano, Tensorflow, Scikit, Keras, Python, H2O, SAS, SPSS, NetworkX
+- [R](https://www.r-project.org/)
+- [Mahout](https://mahout.apache.org/)
+- [Spark ML](https://spark.apache.org/mllib/)
+- [Theano](http://deeplearning.net/software/theano/)
+- [Tensorflow](https://www.tensorflow.org/)
+- [Scikit-learn](https://scikit-learn.org/stable/)
+- [Keras](https://keras.io/)
+- [Python](https://www.python.org/)
+- [H2O](https://www.h2o.ai/)
+- [SAS](https://www.sas.com/en_us/home.html)
+- [SPSS](https://www.ibm.com/br-pt/analytics/spss-statistics-software)
+- [NetworkX](https://networkx.github.io/)
 
 # Infraestrutura:
 Openstack, Docker, OpenFlow, Mininet
