@@ -2,7 +2,7 @@
 
 Analise mais de 50 vagas de emprego para Cientistas de Dados no Brasil e reuni todos os requisitos que estavam pedindo nas diversas vagas.
 
-Obs: Algumas empresas pediam algumas coisas e outras pediam outras coisas, a lista abaixo é o agrupamento de todos os requisitos de todas as vagas separados em tópicos.
+<b>Obs:</b> Algumas empresas pediam algumas coisas e outras pediam outras coisas, a lista abaixo é o agrupamento de todos os requisitos de todas as vagas separados em tópicos.
 
 # Linguagens:
 - [Python](https://www.python.org/)
@@ -15,10 +15,20 @@ Obs: Algumas empresas pediam algumas coisas e outras pediam outras coisas, a lis
 - [Matlab](https://www.mathworks.com/products/matlab.html)
 - [Ladder](https://pt.wikipedia.org/wiki/Linguagem_ladder)
 - [Mathematica](https://www.wolfram.com/mathematica/)
-
+- [SQL](https://pt.wikipedia.org/wiki/SQL)
 
 # Banco de dados:
-MySQL, NoSQL(MongoDB), NewSQL (ex. PostgreSQL, Cassandra, Voltdb, MariaDB), ElasticSearch, SQL, Amazon Redshift, Google BigQuery, Oracle
+- [MySQL](https://www.mysql.com/)
+- [NoSQL](https://pt.wikipedia.org/wiki/NoSQL)
+- [MongoDB](https://www.mongodb.com/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [Cassandra](http://cassandra.apache.org/)
+- [Voltdb](https://www.voltdb.com/)
+- [MariaDB]()
+- [ElasticSearch](https://mariadb.org/)
+- [Amazon Redshift](https://aws.amazon.com/pt/redshift/)
+- [Google BigQuery](https://cloud.google.com/bigquery/)
+- [Oracle](https://www.oracle.com/br/index.html)
 
 # Big data:
 Hadoop, Spark, MapReduce, Coherence, Hazelcast, Hive
