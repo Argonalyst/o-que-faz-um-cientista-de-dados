@@ -58,10 +58,36 @@ Analise mais de 50 vagas de emprego para Cientistas de Dados no Brasil e reuni t
 - [NetworkX](https://networkx.github.io/)
 
 # Infraestrutura:
-Openstack, Docker, OpenFlow, Mininet
+- [Openstack](https://www.openstack.org/)
+- [Docker](https://www.docker.com/)
+- [OpenFlow](https://en.wikipedia.org/wiki/OpenFlow)
+- [Mininet](http://mininet.org/)
 
 # Técnicas de Machine Learning:
-Deep learning, Reinforcement learning, Regression, Recommender systems, SVM,  Bayes, Markov Chain, Neural Networks, Random forest
+- [Deep learning](https://pt.wikipedia.org/wiki/Aprendizagem_profunda)
+- [Reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
+- [Regression](https://en.wikipedia.org/wiki/Regression_analysis)
+- [Recommender systems](https://en.wikipedia.org/wiki/Recommender_system)
+- [SVM](https://pt.wikipedia.org/wiki/M%C3%A1quina_de_vetores_de_suporte)
+- [Bayes](https://pt.wikipedia.org/wiki/Teorema_de_Bayes)
+- [Markov Chain](https://pt.wikipedia.org/wiki/Cadeias_de_Markov)
+- [Neural Networks](https://pt.wikipedia.org/wiki/Rede_neural_artificial)
+- [Random forest](https://en.wikipedia.org/wiki/Random_forest)
 
 # Extras:
-Cloud Itau, Esteira CI/CD, GIT, Jenkins, Puppet, People Analytics, desenvolvimento Agile, Azure Microsoft, Tableau, PowerBI, Robotics, Blue Prism, Automation Anywhere, UI Path, Esper, Tibco, Azure Machine Learning, Amazon Machine Learning, IBM Watson
+- [Esteira CI/CD](https://pt.stackoverflow.com/questions/202466/o-que-%C3%A9-ci-cd-benef%C3%ADcios-e-riscos)
+- [Git](https://git-scm.com/)
+- [Jenkins](https://jenkins.io/)
+- [Puppet](https://puppet.com/)
+- [People Analytics](https://blog.runrun.it/people-analytics-gestao-de-pessoas/)
+- [Desenvolvimento Ágil](https://pt.wikipedia.org/wiki/Desenvolvimento_%C3%A1gil_de_software)
+- [Azure Microsoft](https://azure.microsoft.com/pt-br/)
+- [Tableau](https://www.tableau.com/pt-br)
+- [PowerBI](https://powerbi.microsoft.com/pt-br/)
+- [Blue Prism](https://www.blueprism.com/)
+- [Automation Anywhere](https://www.automationanywhere.com/)
+- [UI Path](https://www.uipath.com/)
+- [Esper](http://www.espertech.com/esper/)
+- [Tibco](https://www.tibco.com/)
+- [Amazon Machine Learning](https://aws.amazon.com/pt/machine-learning/)
+- [IBM Watson](https://www.ibm.com/watson)
